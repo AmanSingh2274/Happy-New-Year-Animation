@@ -4,10 +4,6 @@ This repository contains new year animation that were developed to help develope
 # Project
 <a href="https://strong-paletas-3f67bb.netlify.app/">happy new year animation</a>
 
-# Installation
-To use these projects, simply clone or download the repository to your local machine:
-<p>git clone https://github.com/Karan60/happy-new-year-animation.git</p>
-  
 # Usage
 Each project is contained within its own folder. To view the project, simply open the index.html file in your web browser. The CSS and JavaScript files are also included within the project folder.
 # Contributing
